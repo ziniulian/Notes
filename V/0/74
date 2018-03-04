@@ -1,0 +1,167 @@
+id: 5-12.0.r74/0
+type: file
+pred: 5-12.0.r73/4451330
+count: 17
+text: 71 0 3648564 4947472 9fce4d5f862cf87ff1984dc9b2665502 4157e0cfbbc8c248aa7a1f12bb37f47579827e03 73-10/_2
+props: 1 773871 53 0 113136892f2137aa0116093a524ade0b
+cpath: /摘录/node.js.one
+copyroot: 0 /
+
+PLAIN
+K 7
+Android
+V 21
+dir 4-7.0.r67/3015178
+K 3
+CSS
+V 21
+dir 1-9.0.r59/2279088
+K 10
+Chrome.one
+V 23
+file 8-19.0.r19/1405165
+K 16
+DOS批处理.one
+V 23
+file 1-52.0.r52/3839431
+K 6
+EA.one
+V 22
+file 8-13.0.r27/587516
+K 9
+Excel.one
+V 22
+file 3-20.0.r65/126470
+K 10
+GitHub.one
+V 21
+file 6-9.0.r64/477023
+K 4
+JAVA
+V 20
+dir 6-8.0.r62/622535
+K 2
+JS
+V 19
+dir 1-10.0.r69/5896
+K 11
+OneNote.one
+V 21
+file 6-6.0.r10/482831
+K 16
+Sublime Text.one
+V 21
+file b-6.0.r27/588052
+K 6
+VB.one
+V 23
+file 1-30.0.r54/3421333
+K 9
+WEB技术
+V 22
+dir 7-20.0.r73/4451168
+K 17
+Windows系统.one
+V 22
+file 2-53.0.r70/390919
+K 7
+doT.one
+V 21
+file 1-24.0.r24/62346
+K 11
+node.js.one
+V 17
+file 5-12.0.r74/0
+K 13
+openshift.one
+V 22
+file 6-27.0.r70/391198
+K 6
+其它
+V 21
+dir 4-14.0.r70/392018
+K 10
+图床.one
+V 23
+file b-20.0.r52/3842592
+K 19
+微信公众号.one
+V 23
+file p-18.0.r18/1153059
+K 23
+打开笔记本.onetoc2
+V 22
+file n-1.0.r57/3562264
+K 13
+数据库.one
+V 20
+file 9-27.0.r72/9531
+K 13
+缓存区.one
+V 21
+file d-6.0.r22/203059
+K 7
+股.one
+V 22
+file 5-25.0.r65/127733
+K 15
+计算机常识
+V 21
+dir 3-52.0.r71/588106
+K 16
+音频处理.one
+V 22
+file c-20.0.r21/827614
+END
+ENDREP
+id: m-1.0.r74/1422
+type: dir
+pred: m-1.0.r73/4452768
+count: 63
+text: 74 269 1140 0 b94fe0a4ff91f9d402a2f715ef451095
+cpath: /摘录
+copyroot: 0 /
+
+PLAIN
+K 6
+书籍
+V 19
+dir 0-1.0.r1/774558
+K 6
+剧本
+V 21
+dir 0-18.0.r64/476872
+K 6
+小记
+V 20
+dir 5-1.0.r68/248046
+K 6
+工作
+V 20
+dir e-1.0.r70/390770
+K 6
+摘录
+V 18
+dir m-1.0.r74/1422
+K 6
+日记
+V 21
+dir q-1.0.r73/4454436
+K 6
+速写
+V 20
+dir w-1.0.r10/486004
+END
+ENDREP
+id: 0.0.r74/1843
+type: dir
+pred: 0.0.r73/4454865
+count: 74
+text: 74 1568 262 0 d8ce6adef75072eb4e4f43e141fb90ed
+cpath: /
+copyroot: 0 /
+
+5-12.0.t73-10 modify-file true false /摘录/node.js.one
+
+
+1843 1979
